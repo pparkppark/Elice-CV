@@ -14,3 +14,4 @@ def complicate_function(a):
 if __name__ == "__main__":
     a= 40
     complicate_function(a)
+    print("second line")
